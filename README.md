@@ -1,3 +1,5 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/android-recorder/-/releases](https://gitlab.com/xusu616/android-recorder/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/android-recorder)）
+
 # 倒数日 · Daymark
 
 Kotlin + Jetpack Compose + Material 3 的日期记录应用。参考相邻 ShizukuFTP 的大圆角、柔和色调与壁纸配色方向。
